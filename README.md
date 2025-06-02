@@ -1,2 +1,3 @@
-Its a simple diary
+Its a simple diary.
+<br>
 Nothing more, nothing less
